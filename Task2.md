@@ -4,7 +4,7 @@
 
 # 运行baseline
 
-## 运行报错：
+## 运行报错
 
 (1)提示没有定义train()，修改train_loss = model.train(train_loader, model, criterion, optimizer)；
 
