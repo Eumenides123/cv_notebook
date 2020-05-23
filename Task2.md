@@ -1,6 +1,6 @@
 # 安装opencv
 
-按照https://blog.csdn.net/mawonly/article/details/87856530安装
+按照https://blog.csdn.net/mawonly/article/details/87856530 
 
 # 运行baseline
 
